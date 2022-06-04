@@ -59,11 +59,3 @@ Make it so that the ball chooses a random message when it is clicked on. This sh
 ### Reset
 
 Add a button below the ball that will reset the ball back to its initial state.
-
-## **How to Run**
-
-```bash
-$ git clone https://github.com/cng008/39.4_react-events-state.git
-$ npm install
-$ npm start
-```
